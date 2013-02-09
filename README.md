@@ -1,4 +1,11 @@
 trakt-bot2
 ==========
 
-ruby bot for trakt
+ruby bot for trakt, posts from the friends stream automatically.
+
+* create new trakt account, add all of the people you want to get notifications for as friends.
+* install cinch, edit the defines in bot.rb.
+* run in a screen or whatever.
+
+very hacky (i suck at ruby), but it works. woo.
+
